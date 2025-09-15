@@ -2,4 +2,4 @@
 Repositorio de la materia Frontend IFTS 29 2025 2do cautri
 
 
-## 1. Practica 1 en '1_practicaCV'
+## 1. Practica 1 en 'CV_Andrés Garrido'
